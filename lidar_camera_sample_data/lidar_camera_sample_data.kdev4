@@ -1,0 +1,3 @@
+[Project]
+Manager=KDevCMakeManager
+Name=lidar_camera_sample_data

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<launch>  
+
+
+  <node pkg="Read" type="read" name="read" respawn="false" output="screen">
+  </node>
+  
+  
+  </launch>
